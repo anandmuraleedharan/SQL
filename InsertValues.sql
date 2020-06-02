@@ -1,0 +1,1 @@
+INSERT INTO public."Patients" VALUES ('Parth', 'B', date('2020-06-03'))

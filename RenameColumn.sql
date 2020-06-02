@@ -1,0 +1,1 @@
+ALTER TABLE public."Patients" RENAME COLUMN product_id2 TO product_id
